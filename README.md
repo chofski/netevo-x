@@ -1,4 +1,4 @@
-netevo-x
+NetEvoX
 ========
 
-NetEvoX - Visualisation of Evolving Dynamical Networks
+Visualisation of Evolving Dynamical Networks
